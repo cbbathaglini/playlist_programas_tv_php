@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="144cada6-64db-4fe4-9d2f-b82e90eb3b95" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TGUfCKzcjTpXgKgK2KC8Ezfs6j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index_filmes.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index_filmes.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.2" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index_filmes.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="144cada6-64db-4fe4-9d2f-b82e90eb3b95" name="Default Changelist" comment="" />
+      <created>1690669011932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690669011932</updated>
+      <workItem from="1690669013238" duration="610000" />
+      <workItem from="1690682060215" duration="2404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1690682381142">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1690682381142" />
+    <state width="1239" height="216" key="GridCell.Tab.0.bottom" timestamp="1690684379261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="216" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1690684379261" />
+    <state width="1239" height="216" key="GridCell.Tab.0.center" timestamp="1690684379261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="216" key="GridCell.Tab.0.center/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1690684379261" />
+    <state width="1239" height="216" key="GridCell.Tab.0.left" timestamp="1690684379260">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="216" key="GridCell.Tab.0.left/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1690684379260" />
+    <state width="1239" height="216" key="GridCell.Tab.0.right" timestamp="1690684379261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1239" height="216" key="GridCell.Tab.0.right/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1690684379261" />
+    <state x="344" y="68" key="NewPhpClassDialog" timestamp="1690683963030">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="344" y="68" key="NewPhpClassDialog/0.0.1280.680/0.-1080.1920.1040@0.0.1280.680" timestamp="1690683963030" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/model/banco/Banco.php</url>
+          <line>102</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
